@@ -1,0 +1,13 @@
+・①四則演算（機能）ごとに関数に分け、②さらにファイルを分割してください。
+
+main.cpp
+　↓
+main.cpp
+plus.cpp
+minus.cpp
+multi.cpp
+div.cpp
+
+※プロジェクト名は適当でOKです
+※コンソールアプリとして作成します
+
